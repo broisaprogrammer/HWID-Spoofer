@@ -7,7 +7,7 @@
 
 ## GUIDE
 
-Go to releases tab / https://github.com/bronep/HWID-Spoofer/releases/download/cheats/HWID.Spoofer.exe
+Go to releases tab / (https://github.com/broisaprogrammer/HWID-Spoofer/releases/tag/spoofer)
 
 Wait for it to download
 
@@ -19,6 +19,6 @@ Done
 
 ## Support:
 
-For support join the discord : https://discord.gg/43XD64MDQz
+For support join the discord : https://discord.gg/tWQyS2tQfc
 
 overwatch, rust, hack, exploit, mw2, cheat, spoofing, cheats, fivem, hwid, r6s, fortnite, spoofer, hwid-spoofer, valorant, woofer, hwidspoofer, hwid-spoof, hwid-changer, warzone2
